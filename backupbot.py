@@ -15,7 +15,7 @@ print(Fore.BLUE + '''
 
 ''')
 
-print(Fore.BLUE + "https://github.com/eyesdev/discord-backup-bot")
+print(Fore.BLUE + "https://github.com/szalonyjakub/discord-backup-bot")
 
 print(Fore.BLUE + "Don't forget to", Fore.YELLOW + "star", Fore.BLUE + "the project.")
 
@@ -203,3 +203,4 @@ while True:
         sys.stdout.write('> Invalid Discord token.\n')
         token = str(input('Discord token: '))
         sys.stdout.write('\n')
+
